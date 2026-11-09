@@ -1,0 +1,31 @@
+{
+  "instruccion": "Conservar exactamente estos archivos y su diseño; cambios solo por solicitud explícita.",
+  "sha256": {
+    "dist/app.js": "9cdb5dabc733de09f4fb41552f4ed7c54d5c1f06e4e16b006d46f12b2e856535",
+    "dist/assets/about.webp": "b37ef2ea7aa744fee96e62ab63f8c947c81c219e562692906bfd4f1995e16411",
+    "dist/assets/fonts/font-1.ttf": "0b9a8a33cfaa624d30f70f9b6686da769b319b8c37a55af16e29fef690108bbf",
+    "dist/assets/fonts/font-2.ttf": "14efb9443652199ade5bc6ba8637b4084acce40a58368a3808f84f55667e3e90",
+    "dist/assets/fonts/font-3.ttf": "6d37a86241a25d63f8fe6018b4c083449886b7165c1acb15edd0f574f690ecf7",
+    "dist/assets/fonts/font-4.ttf": "1724047c8988ca5155bff667bc48fa52e97d57aabc6b42eebbf986f21a4be20b",
+    "dist/assets/fonts/font-5.ttf": "69e7ae35cba23d962227b86f99217c250e642e4c6f6104b4f3ec465039e4e2d8",
+    "dist/assets/fonts/font-6.ttf": "b0ae3e89a7d3ef2b1838bb4b1ceb0b17cc3435af061eee809d76aa623ff116e9",
+    "dist/assets/fonts/font-7.ttf": "376427b5322148d8de1e03f263bcca4935a2d60ba71d9f94f4947ab664c711ae",
+    "dist/assets/fonts/font-8.ttf": "b79a2ea7a38f33fd96a282fadb9ce97626bb0724a44d21075859f0e50239993a",
+    "dist/assets/glam1.webp": "03c3f8e82399fb5db236096c424614d60688cd075dc50fea352a20153674b41d",
+    "dist/assets/glam2.webp": "2bd1b2352ec61f7ea69118ef79d10255a4d2c7ed8ca8d0aea00df1596f1e2563",
+    "dist/assets/glam3.webp": "85c3221c9081640a788de22329963bd242ebb300cf974ff948f7274a710ee6f9",
+    "dist/assets/hero.webp": "b502780f81ffa8609c9e01e6acd44112b7e9655936ce87f64878308f5fc00071",
+    "dist/assets/novia1.webp": "b1a9f568e1651711d6d44035556f598e03b28bdb6b46ee0503e4da66e8483397",
+    "dist/assets/novia2.webp": "9bf943e1a1a2019742c9e6b7cd4483dc2088a17f707e9987d5c92e75a617333f",
+    "dist/assets/novia3.webp": "c847306cc43765e69024f5747e47e647c53f36ec0f95ec3906d7585ece9952e2",
+    "dist/assets/social1.webp": "433c4f7cc9cc153a67d0658f3a2a9208d2314b2393db4b65e0b5ed69f461eef4",
+    "dist/assets/social2.webp": "dacd21c1a9979e922c487f719f90a7dcf4e720a5a09736bb7d2c7ca9c7d7a7e7",
+    "dist/assets/social3.webp": "4e7b39bfdc34d41d915eb9352389cc13c39821f46a0c9a43f6446e0fcbecbc58",
+    "dist/assets/softglam1.webp": "c5d7e88089b9f311eab97ec81e8317165ac85b72c7423ec5c2d0afcc2f5bc434",
+    "dist/assets/softglam2.webp": "8e4abc344302891c4865ac94962275ba60197b2cf49f26c19d459423e98fdaa0",
+    "dist/assets/softglam3.webp": "ea7a598ba7868da2cd4d20659d94dd966ef17461bdb0cf89e876a005da31d266",
+    "dist/fonts.css": "8ea02c9436780cb78f996452a975e4b7580305b53426774504fd813b671bcf45",
+    "dist/index.html": "0f8f85b8618460deedffc3eebe947dd9d3d58b2c86712d8ad9c517cf2914efe2",
+    "dist/styles.css": "9e0644e68d374bff10947aaeab9f47e6efeae05c4c4c6c3b54a1202b568f6d46"
+  }
+}

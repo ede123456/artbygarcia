@@ -1,0 +1,47 @@
+font-1.ttf
+Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)
+Cormorant Garamond
+Italic
+https://openfontlicense.org
+
+font-2.ttf
+Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)
+Cormorant Garamond Medium
+Italic
+https://openfontlicense.org
+
+font-3.ttf
+Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)
+Cormorant Garamond
+Regular
+https://openfontlicense.org
+
+font-4.ttf
+Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)
+Cormorant Garamond Medium
+Regular
+https://openfontlicense.org
+
+font-5.ttf
+Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)
+Cormorant Garamond SemiBold
+Regular
+https://openfontlicense.org
+
+font-6.ttf
+Copyright 2014 The DM Sans Project Authors (https://github.com/googlefonts/dm-fonts)
+DM Sans
+Regular
+https://scripts.sil.org/OFL
+
+font-7.ttf
+Copyright 2014 The DM Sans Project Authors (https://github.com/googlefonts/dm-fonts)
+DM Sans Medium
+Regular
+https://scripts.sil.org/OFL
+
+font-8.ttf
+Copyright 2014 The DM Sans Project Authors (https://github.com/googlefonts/dm-fonts)
+DM Sans SemiBold
+Regular
+https://scripts.sil.org/OFL
